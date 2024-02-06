@@ -1,0 +1,27 @@
+.leftData,
+.rightData {
+    font-weight: lighter !important;
+    font-size: 24px;
+}
+
+a {
+    color: black;
+}
+
+.subtitle {
+    color: #A95454;
+}
+
+img {
+    border: 1px solid black;
+    border-top-left-radius: 50% !important;
+    border-top-right-radius: 50% !important;
+}
+
+.box {
+    margin: 0 1%;
+    text-align: center;
+    border: 1px solid black;
+    border-top-left-radius: 50% !important;
+    border-top-right-radius: 50% !important;
+}
